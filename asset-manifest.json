@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/tanoAppGoogle/static/css/main.f855e6bc.css",
-    "main.js": "/tanoAppGoogle/static/js/main.ed2a7034.js",
-    "static/js/453.c2bb38b9.chunk.js": "/tanoAppGoogle/static/js/453.c2bb38b9.chunk.js",
-    "static/media/logo.svg": "/tanoAppGoogle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/tanoAppGoogle/static/css/main.b9b674ed.css",
+    "main.js": "/tanoAppGoogle/static/js/main.2dd6af70.js",
+    "static/js/453.36161b7c.chunk.js": "/tanoAppGoogle/static/js/453.36161b7c.chunk.js",
     "index.html": "/tanoAppGoogle/index.html",
-    "main.f855e6bc.css.map": "/tanoAppGoogle/static/css/main.f855e6bc.css.map",
-    "main.ed2a7034.js.map": "/tanoAppGoogle/static/js/main.ed2a7034.js.map",
-    "453.c2bb38b9.chunk.js.map": "/tanoAppGoogle/static/js/453.c2bb38b9.chunk.js.map"
+    "main.b9b674ed.css.map": "/tanoAppGoogle/static/css/main.b9b674ed.css.map",
+    "main.2dd6af70.js.map": "/tanoAppGoogle/static/js/main.2dd6af70.js.map",
+    "453.36161b7c.chunk.js.map": "/tanoAppGoogle/static/js/453.36161b7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ed2a7034.js"
+    "static/css/main.b9b674ed.css",
+    "static/js/main.2dd6af70.js"
   ]
 }
